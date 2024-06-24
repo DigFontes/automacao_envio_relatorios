@@ -1,4 +1,4 @@
-# Projeto 1 - Automacao_emails
+# Automação envio de relatórios por e-mail
 Automação de Indicadores
 Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
 Descrição:
